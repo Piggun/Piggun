@@ -1,8 +1,8 @@
-<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif#avatar" alt="developer" style="border-radius: 50%;">
 
+<img align="right" width=30% src="developer-banner.gif">
 
-### Hi! 👋
-I'm Riccardo, a programming enthusiast and a passionate gamer.
+### Hi! 👋 
+I'm Riccardo, a programming enthusiast and a passionate gamer. 
 
 ### Programming 💻
 Whether it's game development, web apps, ETL pipelines or exploring new technologies, I love seeing new projects come to life!
