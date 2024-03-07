@@ -1,3 +1,6 @@
+<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif#avatar" alt="developer" style="border-radius: 50%;">
+
+
 ### Hi! 👋
 I'm Riccardo, a programming enthusiast and a passionate gamer.
 
@@ -10,7 +13,6 @@ Whether it's game development, web apps, ETL pipelines or exploring new technolo
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=piggun&show_icons=true&locale=en&theme=github_dark_dimmed" alt="piggun" />
 </p>
-
 <!--
 **Piggun/Piggun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
