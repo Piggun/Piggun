@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi! 👋
+I'm Riccardo, a programming enthusiast and a passionate gamer.
 
+### Programming 💻
+Whether it's game development, web apps, ETL pipelines or exploring new technologies, I love seeing new projects come to life!
 <!--
 **Piggun/Piggun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
