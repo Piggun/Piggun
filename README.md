@@ -6,9 +6,9 @@ Whether it's game development, web apps, ETL pipelines or exploring new technolo
 
 ### Some stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piggun&show_icons=true&locale=en&layout=compact" alt="piggun" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piggun&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="piggun" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=piggun&show_icons=true&locale=en" alt="piggun" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piggun&show_icons=true&locale=en&theme=github_dark_dimmed" alt="piggun" />
 </p>
 
 <!--
